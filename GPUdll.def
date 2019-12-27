@@ -1,0 +1,6 @@
+LIBRARY MyDLL
+EXPORTS
+BlockDim @ 1
+GridDim @ 2
+major @ 3
+minor @ 4
